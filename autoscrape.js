@@ -1,6 +1,5 @@
 // the purpose of this function is to use regular expression to scrape small to medium sized text files via url from --
 // the VAN report manager feature
-// I'm not sure that VAN realizes that this feature can be used to automate limited data transfer...so maybe don't tell them?
 // use Google App Script documentation to get started https://developers.google.com/apps-script/
 // Google Scripts can take advantage of OAuth 2.0 so it's a fairly secure way to move data
 // use time based triggers to automate data transfer, it's like our very own Stork!!!
